@@ -1,0 +1,31 @@
+.flex-c{
+    margin: 0 auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.big-width{
+    width: 300px;
+}
+
+.div-block{
+    margin: 0 auto;
+    width: 100px;
+    border-top: 1px blue solid;
+    margin-bottom: 20px;
+}
+
+.colored{
+    color: coral;
+    font-weight: bold;
+    font-size: 1.25rem;
+    margin-bottom: 15px;
+}
+
+li{
+    text-align: left;
+}
+
+.ta-left{
+    margin-bottom: 15px;
+}

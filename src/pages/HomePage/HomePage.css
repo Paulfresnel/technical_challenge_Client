@@ -1,0 +1,22 @@
+.btn-outline-success{
+    margin-top: 25px;
+    color: coral;
+    border: 1px coral solid;
+    box-shadow: 3px 3px 5px 2px coral;
+    font-weight: bold;
+        font-size: 1.25rem;
+
+}
+
+.margined{
+    margin: 15px;
+}
+
+.btn-outline-success:hover{
+    background-color: #00E0D9;
+    color: black;
+    font-weight: bold;
+    font-size: 1.25rem;
+    box-shadow: 3px 3px 5px 2px coral;
+    border: 1px solid coral;
+}
