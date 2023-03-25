@@ -1,5 +1,7 @@
 # Getting Started with The Phone Cave App
 
+<img src="https://images.unsplash.com/photo-1525598912003-663126343e1f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGhvbmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"/>
+
 This Phone Cave project allows you to check detailed information about some of the most popular and used Mobile devices nowadays.
 
 ## Get Accurate & Detailed Phone Information 
