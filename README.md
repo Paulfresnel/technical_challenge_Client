@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# Getting Started with The Phone Cave App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Phone Cave project allows you to check detailed information about some of the most popular and used Mobile devices nowadays.
 
-## Available Scripts
+## Get Accurate & Detailed Phone Information 
 
-In the project directory, you can run:
+Inform yourself on the best phones to use depending on a variety of informations and specificities, may it be the Screen size, the processor power or the RAM capacity, our website will help you make a comprehensive and good decision about which mobile devices to get
 
-### `npm start`
+## Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Our front-end repo was rapidly bootstrapped with 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<strong><em>create-react-app </em></strong>
 
-### `npm test`
+build method, as well as our backend repo which was bootstrapped using the 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<strong><em>npx  ironlauncher technical_challenge-server --json </em></strong>
 
-### `npm run build`
+to quickly setup a RestFul API on the backend server.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Frontend Tech & Modules used:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- ExpressJs
+- ReactJs
+- Axios
+- RESTful API
+- React-router-dom
+- React-loader-spinner
+- Bootstrap
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Backend Technologies & Modules used:
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- Axios
+- cookie-parser
+- Cors
+- mongoose (<strong>if in the future</strong>, we have needs to implement a phone Model in our DB, our MongoDB initial file's configuration has been set)
+- morgan
+- nodemon
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Our App has not yet been deployed. For testing purposes, I recommend you to fork this repo as well as the backend repo located at <a href="https://github.com/Paulfresnel/technical_challenge_server"> https://github.com/Paulfresnel/technical_challenge_server</a> and test our website features locally on your machine.
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Thank you
